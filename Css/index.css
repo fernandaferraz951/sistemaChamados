@@ -1,0 +1,23 @@
+body {
+    background-color: #E0F2F1
+}
+
+table {
+    background-color: #eee;
+    margin-top: .9rem;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 5px 25px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+.delete {
+    background-color: rgb(231, 54, 54);
+    color: rgb(255, 255, 255);
+    border-radius: 5%;
+    border: none;
+}
+
